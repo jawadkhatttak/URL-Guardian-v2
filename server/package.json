@@ -11,7 +11,7 @@
     "validate": "node src/scripts/validate-engine.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Jawad Khatttak",
   "license": "MIT",
   "dependencies": {
     "cheerio": "^1.2.0",
