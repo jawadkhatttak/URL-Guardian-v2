@@ -1,6 +1,6 @@
 # URL Guardian — URL Analysis Engine v2
 
-A phishing and malicious-URL detection system built as a Final Year Project. It analyzes a URL through several independent intelligence layers, correlates the signals across them, and produces an explainable risk score.
+A phishing and malicious-URL detection system. It analyzes a URL through several independent intelligence layers, correlates the signals across them, and produces an explainable risk score.
 
 ## Features
 
